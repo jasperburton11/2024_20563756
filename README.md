@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Priority: master 
-=======
-Priority: devel 
->>>>>>> devel
+user 1 says hello 
