@@ -1,0 +1,1 @@
+"show - retrieves modifications that were applied at every commit" 
