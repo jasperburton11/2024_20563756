@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sstream>
-#include "adder.cpp"
+#include "adder.h"
 using namespace std;
 int main(int argc, char* argv[])
 {   
