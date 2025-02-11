@@ -1,0 +1,3 @@
+C:/Users/jabba/2024_20563756/worksheet4/hello_cmake/CMakeFiles/hello.dir
+C:/Users/jabba/2024_20563756/worksheet4/hello_cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/jabba/2024_20563756/worksheet4/hello_cmake/CMakeFiles/ZERO_CHECK.dir
