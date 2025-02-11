@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jabba\\2024_20563756\\worksheet4\\hello_cmake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1663B5-1551-3B1E-9E13-DFEA793533BB}|ALL_BUILD.vcxproj|C:\\Users\\jabba\\2024_20563756\\worksheet4\\hello_cmake\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA1663B5-1551-3B1E-9E13-DFEA793533BB}|ALL_BUILD.vcxproj|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\jabba\\2024_20563756\\worksheet4\\hello_cmake\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\jabba\\2024_20563756\\worksheet4\\hello_cmake\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-11T14:58:23.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

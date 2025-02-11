@@ -1,0 +1,4 @@
+C:/Users/jabba/2024_20563756/worksheet4/calc/build/CMakeFiles/maths.dir
+C:/Users/jabba/2024_20563756/worksheet4/calc/build/CMakeFiles/calc.dir
+C:/Users/jabba/2024_20563756/worksheet4/calc/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jabba/2024_20563756/worksheet4/calc/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\JABBA\2024_20563756\WORKSHEET4\CALC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jabba/2024_20563756/worksheet4/calc -BC:/Users/jabba/2024_20563756/worksheet4/calc/build --check-stamp-file C:/Users/jabba/2024_20563756/worksheet4/calc/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
